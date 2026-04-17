@@ -6,9 +6,9 @@
 //               Definiert den Haupt-Spiel-Schleife sowie die 
 //               Zustände für Menüführung und Spielmodi
 // ---------------------------------------------------------
-// ENTWICKLER:   Linus Schiel & Emil Kern
+// ENTWICKLER:   Linus Schiel (Software-Architektur & Implementierung)
+// KONZEPT:      Linus Schiel, Emil Kern
 // VERSION:      v1.0.0 (Final)
-// DATUM:        19.01.2026
 // =========================================================
 
 

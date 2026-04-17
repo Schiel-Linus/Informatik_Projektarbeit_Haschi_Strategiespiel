@@ -6,9 +6,9 @@
 //               Enthält die Logik für Menü-Strukturen,
 //               ASCII-Banner und interaktive Benutzerabfragen
 // ---------------------------------------------------------
-// ENTWICKLER:   Linus Schiel & Emil Kern
+// ENTWICKLER:   Linus Schiel (Software-Architektur & Implementierung)
+// KONZEPT:      Linus Schiel, Emil Kern
 // VERSION:      v1.0.0 (Final)
-// DATUM:        19.01.2026
 // =========================================================
 
 
@@ -1748,10 +1748,10 @@ void zeichne_Abschluss_Banner() {
     cout << randabstand << "=========================================================" << endl;
     cout << randabstand << "PROJEKT HASCHI | Programm beendet" << endl;
     cout << randabstand << "---------------------------------------------------------" << endl;
-    cout << randabstand << "Developed by: Linus Schiel & Emil Kern" << endl;
-    cout << randabstand << "Release: v1.0.0 (2026)" << endl;
-    cout << randabstand << "=========================================================" << endl;
-    cout << endl << endl << endl;
+    cout << randabstand << "Software-Architektur: Linus Schiel" << endl;
+    cout << randabstand << "Konzeption:           Linus Schiel & Emil Kern" << endl;
+    cout << randabstand << "Release:              v1.0.0 (Final)" << endl;
+    cout << randabstand << "=========================================================" << endl << endl;
 }
 
 void warte_auf_Enter() {

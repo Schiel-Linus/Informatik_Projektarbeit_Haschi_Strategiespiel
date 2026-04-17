@@ -6,9 +6,9 @@
 //               Berechnung der Rahmenbegrenzungen (ASCII), 
 //               Zentrierung der Ausgabe und Cursor-Logik
 // ---------------------------------------------------------
-// ENTWICKLER:   Linus Schiel & Emil Kern
+// ENTWICKLER:   Linus Schiel (Software-Architektur & Implementierung)
+// KONZEPT:      Linus Schiel, Emil Kern
 // VERSION:      v1.0.0 (Final)
-// DATUM:        19.01.2026
 // =========================================================
 
 
